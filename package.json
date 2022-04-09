@@ -10,7 +10,8 @@
   "scripts": {
     "start:backend": "npm run start --workspace=backend",
     "start:web": "npm run start --workspace=frontend/web",
-    "start:desktop": "npm run serve --workspace=fronten/desktop && npm run start --workspace=frontend/desktop"
+    "start:desktop:server": "npm run server --workspace=frontend/desktop",
+    "start:desktop:start": "npm run start --workspace=frontend/desktop"
   },
   "keywords": [],
   "license": "ISC"
