@@ -1,10 +1,8 @@
 ## Issue-Tracking-System
 
-![Issue-Tracking-System](https://krisemm.github.io/krisemm-portfolio/assets/images/projects/meeti.png "Issue-Tracking-System")
-
 ## Description
 
-In this project you can publish meetings and groups to chat about a specific topic and you can also join a group and comment on the topic within the group.
+In this project you can report an issue from website, and you can manage it from an application developed with electron.Both communicate through a rest api
 
 ## Using
 
