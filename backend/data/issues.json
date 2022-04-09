@@ -1,0 +1,37 @@
+{
+  "PendingIssues": [],
+  "SolvedIssues": [
+    {
+      "id": "28e1ee8d-5a9c-48a3-8ca2-82f83d9626d7",
+      "type": "bug",
+      "title": "fasda",
+      "description": "dasda",
+      "priority": "high",
+      "customer": {
+        "name": "Cristian Emmanuel",
+        "email": "kristian.emm@gmail.com",
+        "phone": "1574485"
+      },
+      "information": {
+        "problem": "fasdssad",
+        "solution": "dasdsadsa"
+      }
+    },
+    {
+      "id": "c688811c-86eb-48eb-a208-c42dac3fdc8c",
+      "type": "bug",
+      "title": "No funciona",
+      "description": "Esta porqueria no jal",
+      "priority": "high",
+      "customer": {
+        "name": "Jonathan Castillo",
+        "email": "jony@gmail.com",
+        "phone": "51846165"
+      },
+      "information": {
+        "problem": "Realmente no sabes usar las cosas",
+        "solution": "Solo gire la pantalla"
+      }
+    }
+  ]
+}

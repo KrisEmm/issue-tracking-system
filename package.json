@@ -1,0 +1,17 @@
+{
+  "name": "issue-tracking-system",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "backend",
+    "frontend/desktop",
+    "frontend/web"
+  ],
+  "scripts": {
+    "start:backend": "npm run start --workspace=backend",
+    "start:web": "npm run start --workspace=frontend/web",
+    "start:desktop": "npm run serve --workspace=fronten/desktop && npm run start --workspace=frontend/desktop"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

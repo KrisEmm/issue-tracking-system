@@ -1,0 +1,6 @@
+.idea
+node_modules
+# dependencies
+Backend/node_modules
+Frontend/web/node_modules
+Frontend/desktop/node_modules
